@@ -1,5 +1,11 @@
 ## Hi there 👋
+My name is Manuel, and I'm an MIS major at the University of Texas at Arlington.
 
+- 🔭 I'm currently working on a Smart Environmental Monitoring System designed for real-world use, delivering real-time environmental insights for businesses.
+- 🌱 I'm learning I2C, SPI, UART, Embedded C++, and IoT technologies.
+- 🚀 I recently developed a Python script that extracts database data using Pandas and visualizes battery degradation in GPS devices with Matplotlib.
+- 💡 I'm looking to collaborate on building innovative software and hardware applications.
+- 🛠️ I'm looking to help with Firmware and Software Development. 
 <!--
 **manuelg5/manuelg5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
