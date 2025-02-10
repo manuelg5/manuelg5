@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Manuel, and I'm an MIS major at the University of Texas at Arlington.
+My name is Manuel, and I'm a Senior MIS major at the University of Texas at Arlington.
 
 - 🔭 I'm currently working on a Smart Environmental Monitoring System designed for real-world use, delivering real-time environmental insights for businesses.
 - 🌱 I'm learning I2C, SPI, UART, Embedded C++, and IoT technologies.
